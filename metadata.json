@@ -1,0 +1,5 @@
+{
+  "name": "AI Background Remover",
+  "description": "Easily remove backgrounds from your images directly in your browser. This tool leverages client-side processing to ensure your privacy and operate without server costs for image manipulation or storage.",
+  "requestFramePermissions": []
+}
